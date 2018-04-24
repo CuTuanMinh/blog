@@ -8,7 +8,7 @@
  */
 
 define('LARAVEL_START', microtime(true));
-//echo "<h1>hello</h1>";
+echo "<h1>hello</h1>";
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
